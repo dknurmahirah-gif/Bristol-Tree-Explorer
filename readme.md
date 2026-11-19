@@ -6,4 +6,5 @@ Bristol Tree Explorer is a web application that helps people discover and compar
 3. [Design](docs/design.md)
 4. [Implementation](docs/implementation.md)
 5. [Testing](docs/testing.md)
+6. [References](docs/references.md)
 
