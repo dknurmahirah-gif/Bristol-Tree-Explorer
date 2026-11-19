@@ -21,7 +21,7 @@ Bristol City Council has published 56,550 tree records as open data (Bristol Cit
 -	1,000-record limit: The API limits each request to 1,000 records. I will use filters to retrieve only the trees needed, such as those with the widest trunks (Bristol City Council, 2025).
 -	Messy or missing data: Inconsistent or missing values may affect results. I will display "Not recorded" instead of unclear raw values.
 -	Missing tree age: The dataset does not include tree ages. I will explain that trunk width can provide a rough indication of a tree's age, but cannot determine its exact age.
--	Incomplete dataset: The dataset does not include woodland trees or trees on council land that are not managed by the council's tree officers (Bristol City Council,2025). I will clarify that the app only reflects the available data.
+-	Incomplete dataset: The dataset does not include woodland trees or trees on council land that are not managed by the council's tree officers (Bristol City Council, 2025). I will clarify that the app only reflects the available data.
 
 ## Project Scope
 ### In Scope
@@ -38,6 +38,5 @@ Bristol City Council has published 56,550 tree records as open data (Bristol Cit
 - User accounts.
 - Editing council data.
 - Providing real tree ages.
-The National Archives (n.d.)
 
 ![Context diagram for Bristol Tree Explorer](images/context.png)
