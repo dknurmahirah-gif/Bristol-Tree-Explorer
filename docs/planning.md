@@ -13,7 +13,7 @@ Bristol City Council has published 56,550 tree records as open data (Bristol Cit
 
 ### Options Considered
 -	_Treezilla_: A UK-wide tree-mapping platform that allows users to locate, measure and contribute tree records. Its main focus is citizen science and mapping trees across the UK (Treezilla, n.d.). 
--	_Trees of Bristol_: An interactive website that allows users to explore Bristol's trees by location, species and collection (Trees of Bristol, n.d.). 
+-	_Trees of Bristol_: An interactive website that allows users to explore Bristol's trees by location, species and collection (Bristol Tree Forum, 2016). 
 -	_Bristol Tree Explorer (my project)_: Provides a simpler way to explore Bristol City Council's open tree data, focusing specifically on filtering and comparing trees by trunk width.
 
 ### Expected Risks
@@ -31,7 +31,7 @@ Bristol City Council has published 56,550 tree records as open data (Bristol Cit
 - Open Data Bristol Platform: Provides the council's tree dataset.
 - Map service: Supplies the map that tree locations are shown on.
 - GitHub Pages: Hosts the web application.
-- Open Government Licence v3.0: Allows reuse of the open data with attribution.
+- Open Government Licence v3.0: Allows reuse of the open data with attribution (The National Archives, n.d.).
 - HTML/CSS/JavaScript: Technologies used to build the application.
 
 ### Out of Scope
